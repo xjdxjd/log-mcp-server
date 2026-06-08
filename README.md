@@ -5,7 +5,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-orange.svg)](https://modelcontextprotocol.io/)
 
 ---
@@ -368,4 +368,4 @@ chore: 构建/工具变更
 
 ## 📄 License
 
-[MIT](./LICENSE) — 自由使用、修改和分发。
+[Apache License 2.0](./LICENSE) — 允许商业使用、修改和分发，需保留版权声明和许可证副本。
