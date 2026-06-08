@@ -54,7 +54,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/log-mcp-server.git
+git clone https://github.com/xjdxjd/log-mcp-server.git
 cd log-mcp-server
 npm install
 npm run build
